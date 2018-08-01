@@ -1,1 +1,4 @@
-# Juniors should learn this
+# Goal
+
+Explain encapsulation
+
